@@ -302,7 +302,7 @@
             "last_commit": "2026-02-05T13:17:57Z",
             "owner": "UKPLab",
             "repo": "sentence-transformers",
-            "stars": 18212
+            "stars": 18214
           }
         }
       ],
@@ -336,7 +336,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5970
+            "stars": 5971
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2024-07-28T00:44:25Z",
             "owner": "sebastianruder",
             "repo": "NLP-progress",
-            "stars": 22977
+            "stars": 22976
           }
         },
         {
@@ -364,10 +364,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-01-27T20:23:51Z",
+            "last_commit": "2026-02-07T20:08:21Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18177
+            "stars": 18179
           }
         },
         {
@@ -393,7 +393,7 @@
             "last_commit": "2023-07-27T02:54:52Z",
             "owner": "crownpku",
             "repo": "Awesome-Chinese-NLP",
-            "stars": 7926
+            "stars": 7925
           }
         },
         {
@@ -510,10 +510,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T13:24:30.950Z",
+    "last_updated": "2026-02-08T04:31:40.065Z",
     "original_repository": "theimpossibleastronaut/awesome-linguistics",
     "source_repository": "v1nvn/enhansome-linguistics",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Untitled"
   }
 }
