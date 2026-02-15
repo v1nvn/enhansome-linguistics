@@ -1,6 +1,6 @@
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,261 | 🐛 69 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 437,495 | 🐛 70 | 📅 2026-01-28
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -67,7 +67,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,255 | 🐛 1,345 | 🌐 Python | 📅 2026-02-13
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,258 | 🐛 1,346 | 🌐 Python | 📅 2026-02-13
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 22 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
@@ -121,9 +121,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 
-* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,978 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,979 | 🐛 40 | 🌐 Python | 📅 2024-07-28
 * [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,189 | 🐛 10 | 📅 2026-02-07
-* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,927 | 🐛 5 | 📅 2023-07-27
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,926 | 🐛 5 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,967 | 🐛 11 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,171 | 🐛 7 | 📅 2023-04-20
 * [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 515 | 🐛 0 | 📅 2024-10-30
