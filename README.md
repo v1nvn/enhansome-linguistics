@@ -1,6 +1,6 @@
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,706 | 🐛 70 | 📅 2026-01-28
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 438,983 | 🐛 70 | 📅 2026-01-28
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -67,8 +67,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,286 | 🐛 1,347 | 🌐 Python | 📅 2026-02-17
-* [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 157 | 🐛 22 | 📅 2022-12-06
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,288 | 🐛 1,348 | 🌐 Python | 📅 2026-02-20
+* [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 158 | 🐛 22 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
 * [GerPT2](https://github.com/bminixhofer/gerpt2) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2022-05-11
@@ -122,9 +122,9 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 ### Lists
 
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,980 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,201 | 🐛 10 | 📅 2026-02-07
-* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,926 | 🐛 5 | 📅 2023-07-27
-* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,969 | 🐛 11 | 📅 2023-02-15
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,208 | 🐛 10 | 📅 2026-02-07
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,925 | 🐛 5 | 📅 2023-07-27
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,970 | 🐛 11 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,174 | 🐛 7 | 📅 2023-04-20
 * [German NLP resources](https://github.com/adbar/German-NLP/) ⭐ 516 | 🐛 0 | 📅 2024-10-30
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp) ⭐ 348 | 🐛 6 | 📅 2024-01-09
