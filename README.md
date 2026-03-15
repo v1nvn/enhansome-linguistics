@@ -1,6 +1,6 @@
 ### Awesome Linguistics
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,302 | 🐛 80 | 📅 2026-03-09
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 445,548 | 🐛 81 | 📅 2026-03-09
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -62,12 +62,12 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Resources
 
-* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 437 | 🐛 0 | 🌐 TeX | 📅 2025-04-02 - A list of resources for conservation, development, and documentation of low resource (human) languages.
+* [Low Resource Languages](https://github.com/RIchardLitt/low-resource-languages) ⭐ 438 | 🐛 0 | 🌐 TeX | 📅 2025-04-02 - A list of resources for conservation, development, and documentation of low resource (human) languages.
 * [Language Science Press](https://langsci-press.org/) - Language Science Press is a born-digital scholar-led open access publisher in linguistics.
 
 ### Deep learning models and transformers
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,388 | 🐛 1,347 | 🌐 Python | 📅 2026-03-12
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 18,392 | 🐛 1,347 | 🌐 Python | 📅 2026-03-12
 * [dbmdz BERT models](https://github.com/dbmdz/berts) ⭐ 159 | 🐛 22 | 📅 2022-12-06
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model) ⭐ 28 | 🐛 0 | 📅 2019-12-15
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-02-22
@@ -121,8 +121,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 
 ### Lists
 
-* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,981 | 🐛 40 | 🌐 Python | 📅 2024-07-28
-* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,256 | 🐛 16 | 📅 2026-02-07
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress) ⭐ 22,980 | 🐛 40 | 🌐 Python | 📅 2024-07-28
+* [awesome-nlp](https://github.com/keon/awesome-nlp) ⭐ 18,274 | 🐛 17 | 📅 2026-02-07
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP) ⭐ 7,926 | 🐛 6 | 📅 2023-07-27
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,973 | 🐛 11 | 📅 2023-02-15
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) ⭐ 1,179 | 🐛 7 | 📅 2023-04-20
